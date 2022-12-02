@@ -1,0 +1,11 @@
+1. Start the Apache and Mysql server in Xampp 
+
+2. Open the Visual studio and the open the root folder in VS code
+
+3. Click on Run ( Run without  debugging) select suggested debugger(Java)
+
+4. Check tomcat is Runing on Port 8080
+
+5. Now In root folder Gate Security System\front-end\userapp\userapp\ click on Index.html
+
+Note: Without Starting Spring boot Front end will not work
